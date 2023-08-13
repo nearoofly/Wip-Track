@@ -2,7 +2,7 @@
 A simple IP locator tool ,can help you find the exact location.
 ### Author - [WILLY MOB] https://github.com/Wharkly47/Wip-Track/)
 
-![Screenshot_2023-08-13_02_47_23.png](/https://ibb.co/LNNW3nh.jpg)
+![Screenshot_2023-08-13_02_47_23](https://ibb.co/LNNW3nh.jpg)
 
 
 
