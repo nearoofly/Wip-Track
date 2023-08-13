@@ -81,7 +81,7 @@ try:
                 print(G+"6) Location\n")
                 print(G+"\tLattitude : "+Y,data['lat'],'\n')
                 print(G+"\tLongitude : "+Y,data['lon'],'\n')
-                l='https://www.google.com/maps'+str(data['lat'])+'+'+str(data['lon'])
+                l='https://www.google.com/maps/place/'+str(data['lat'])+'+'+str(data['lon'])
                 print(R+"\n#"+Y+" Google Map link : "+CY,l)
                 path=os.path.isfile('/data/data/com.termux/files/usr/bin/bash')
                 if path:
