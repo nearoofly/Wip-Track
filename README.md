@@ -12,7 +12,7 @@
 2) apt-get install python3
 3) git clone https://github.com/Wharkly47/Wip-Track.git
 4) cd Wip-Track
-5) python3 Wip-Track.py
+5) python3 Wip-track.py
 
 ## Features
 
